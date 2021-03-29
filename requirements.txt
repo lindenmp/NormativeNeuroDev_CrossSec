@@ -50,7 +50,7 @@ ptitprince==0.1.4
 ptyprocess==0.6.0
 pyface==6.0.0
 pygam==0.8.0
-Pygments==2.3.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pyparsing==2.4.0
 PyQt5==5.12.1
