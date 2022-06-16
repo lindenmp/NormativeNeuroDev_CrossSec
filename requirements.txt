@@ -33,7 +33,7 @@ nbconvert==5.4.1
 nbformat==4.4.0
 nibabel==2.4.0
 nispat==0.12
-notebook==5.7.8
+notebook==6.4.12
 numpy==1.16.2
 pandas==0.24.2
 pandocfilters==1.4.2
